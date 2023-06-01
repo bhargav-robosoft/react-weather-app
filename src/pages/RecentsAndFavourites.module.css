@@ -1,0 +1,14 @@
+.remove-all-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 10px;
+
+  font-size: 13px;
+}
+
+.remove-all {
+  cursor: pointer;
+}

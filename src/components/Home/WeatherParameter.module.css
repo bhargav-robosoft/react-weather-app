@@ -1,0 +1,17 @@
+.parameter {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.icon {
+  margin-right: 20px;
+}
+
+.title {
+  font-size: 15px;
+}
+
+.value {
+  font-size: 22px;
+}
